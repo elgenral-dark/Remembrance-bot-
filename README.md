@@ -7,7 +7,7 @@ by GENERAL DEV 🚀
 
 ---
 
-✨ Features | المميزات
+# ✨ Features | المميزات
 
 🇬🇧 English
 
@@ -31,7 +31,7 @@ by GENERAL DEV 🚀
 
 ---
 
-🧠 Architecture | البنية
+# 🧠 Architecture | البنية
 
 - Telegram Bot API
 - Background Thread Scheduler
@@ -40,7 +40,7 @@ by GENERAL DEV 🚀
 
 ---
 
-🔐 Environment Setup | إعداد التشغيل
+# 🔐 Environment Setup | إعداد التشغيل
 
 🇬🇧
 
@@ -54,7 +54,7 @@ BOT_TOKEN=your_token_here
 
 ---
 
-▶️ Run the Bot | تشغيل البوت
+# ▶️ Run the Bot | تشغيل البوت
 
 pip install -r azkar-bot/requirements.txt
 python azkar-bot/bot.py
@@ -75,7 +75,7 @@ ZIKR_INTERVAL_SECONDS = 60
 
 ---
 
-📁 Project Structure | هيكل المشروع
+# 📁 Project Structure | هيكل المشروع
 
 azkar-bot/
 ├── bot.py
@@ -85,7 +85,7 @@ azkar-bot/
 
 ---
 
-🚀 Future Plans | التطوير المستقبلي
+# 🚀 Future Plans | التطوير المستقبلي
 
 🇬🇧
 
@@ -101,14 +101,14 @@ azkar-bot/
 
 ---
 
-💡 Developer | المطور
+# 💡 Developer | المطور
 
 YOUSSEF ELGENERAL DEV
 بوتات – ذكاء اصطناعي – أمن سيبراني
 
 ---
 
-🤲 Final Message | كلمة أخيرة
+# 🤲 Final Message | كلمة أخيرة
 
 May Allah accept from us and from you 🤲
 نسأل الله القبول لنا ولكم 🤲
